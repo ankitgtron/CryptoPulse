@@ -70,7 +70,7 @@ The project will follow a **step-by-step** approach for feature implementation, 
 3. **Add Basic CSS Styling:**  
    - Style the dashboard layout using CSS, ensuring it’s mobile-friendly.
    - **Reading Material:** [CSS Basics](https://www.w3schools.com/css/)  
-   - **Video Tutorial:** [CSS Basics](https://www.youtube.com/watch?v=YfoY53QXEnI)
+   - **Video Tutorial:** [CSS Basics](https://www.youtube.com/watch?v=wRNinF7YQqQ)
 
 4. **Responsive Design:**  
    - Use CSS Flexbox or Grid to make the dashboard responsive.
