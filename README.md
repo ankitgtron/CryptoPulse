@@ -1,5 +1,5 @@
 ### **Project Overview: Crypto Dashboard**
-This project involves creating a **Crypto Dashboard** to display real-time cryptocurrency data. The app will showcase cryptocurrency prices, historical data, and dynamic charts using **ApexCharts.js**. The platform will connect to an API that provides live market data and update the dashboard with new information.
+**CryptoPulse:** This project involves creating a **Crypto Dashboard** to display real-time cryptocurrency data. The app will showcase cryptocurrency prices, historical data, and dynamic charts using **ApexCharts.js**. The platform will connect to an API that provides live market data and update the dashboard with new information.
 
 ---
 
