@@ -60,7 +60,7 @@ The project will follow a **step-by-step** approach for feature implementation, 
 1. **Install Development Tools:**  
    - Install **VSCode** and set up **Live Server** for testing.
    - **Reading Material:** [VSCode Installation Guide](https://code.visualstudio.com/docs/setup/setup-overview)  
-   - **Video Tutorial:** [VSCode Setup](https://www.youtube.com/watch?v=wp34p5kQ58E)
+   - **Video Tutorial:** [VSCode Setup](https://www.youtube.com/watch?v=TeZdo8mx0gc)
 
 2. **Create Basic HTML Layout:**  
    - Set up the basic structure of the dashboard, including the header, main content area, and footer.
