@@ -77,6 +77,18 @@ Create a functional cryptocurrency dashboard with real-time and historical data 
 
 ---
 
+### **Workflow Overview**
+This section illustrates the complete workflow for users in the **Crypto Dashboard** application, covering key functionalities such as viewing real-time cryptocurrency market data, analyzing trends, and exploring historical data.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **Crypto Dashboard** app, showcasing the interaction between the frontend (HTML, CSS, JavaScript), the data visualization library (ApexCharts.js), and the public API used to fetch live cryptocurrency market data. It highlights how real-time updates and user interactions are managed seamlessly.
+![image](https://github.com/user-attachments/assets/12c5680a-3e95-418a-8059-0f60763fc0a0)
+
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
